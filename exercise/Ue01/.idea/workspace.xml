@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="129cbcbb-1de6-4861-9cc3-7186ad32cc1a" name="Changes" comment="Update exercise 1">
-      <change afterPath="$PROJECT_DIR$/Ue01.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ue01_CellBody.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ue01_Diamonds.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ue01_CellBody.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ue01_CellBody.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ue01_Diamonds.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ue01_Diamonds.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="129cbcbb-1de6-4861-9cc3-7186ad32cc1a" name="Changes" comment="Finalize exercise 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +47,7 @@
       <workItem from="1668335882014" duration="669000" />
       <workItem from="1668459953028" duration="306000" />
       <workItem from="1668519045707" duration="773000" />
+      <workItem from="1668603217462" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="Update exercise 1">
       <created>1668162991295</created>
@@ -69,7 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668336525376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finalize exercise 1">
+      <created>1668603266684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668603266684</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finalize exercise 1">
+      <created>1668603282700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668603282700</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update exercise 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update exercise 1" />
+    <MESSAGE value="Finalize exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalize exercise 1" />
   </component>
 </project>
