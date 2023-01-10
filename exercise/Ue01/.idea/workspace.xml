@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="129cbcbb-1de6-4861-9cc3-7186ad32cc1a" name="Changes" comment="Finalize exercise 1" />
+    <list default="true" id="129cbcbb-1de6-4861-9cc3-7186ad32cc1a" name="Changes" comment="Finalize exercise 1">
+      <change afterPath="$PROJECT_DIR$/Ue01.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ue02/Ue02_IrisPlant.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ue02/Ue02_IrisPlant.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +52,7 @@
       <workItem from="1668459953028" duration="306000" />
       <workItem from="1668519045707" duration="773000" />
       <workItem from="1668603217462" duration="105000" />
+      <workItem from="1668698048139" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="Update exercise 1">
       <created>1668162991295</created>
@@ -93,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
